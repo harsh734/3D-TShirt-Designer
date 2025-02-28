@@ -4,6 +4,8 @@
 3D Swag Customizer is a web application that allows users to create and personalize 3D shirts and swag items dynamically. Built with React Three Fiber, Three.js, and Framer Motion, this project offers a seamless and interactive experience for users to customize colors, upload logos, and apply texture images to their designs. With a focus on responsiveness and smooth animations, the application ensures an engaging and user-friendly experience across all devices.
 
 ⚙️ Tech Stack
+
+
 React.js
 
 Three.js
